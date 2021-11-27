@@ -1,0 +1,161 @@
+*{
+    margin: 2px 2px;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: Open sans;
+text-shadow: 0px 3px 6px black;
+text-align: right;
+color: white;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-right: 50px;
+}
+header h2{
+    font-size: 60px;
+    margin-left: 100px;
+    }
+   
+    header h3{
+        font-size: 40px;
+        font-weight: lighter;
+        }
+
+        #Proxima-Charla {
+            background: #a4452c;
+            padding: 80px;
+            color: white;
+            }
+            #Proxima-Charla .wrapper {
+            width: 800px;
+            margin: auto;
+            }
+            .wrapper img {
+                width: 25%;
+                }
+                .wrapper .texto {
+                width: 60%;
+                margin-left: 4%;
+                text-align: justify;
+                line-height: 0.9em;
+                font-family: "Open Sans", sans-serif;
+                }
+
+                .wrapper img, .texto{
+display: inline-block;
+vertical-align:middle;
+                }
+
+                #we-work {
+                    margin-top: 50px;
+                    margin-bottom: 50px;
+                    margin-right: auto;
+                    margin-left: auto;
+                    width: 800px;
+                    display: block;
+                    text-align:center;
+                }
+
+nav{
+    background: black;
+    height: 60px;
+    margin-bottom: 0px;
+
+    
+}
+
+                nav ul li {
+                    float: left;
+                    list-style: none;
+                    margin: 10px;
+                    line-height: 30px;
+                    margin-top: 15px;
+                }
+a{
+color: white;
+}
+
+a:link {
+    text-decoration: none;
+  }
+               
+
+                .clearfix {
+                    clear: both;
+                }
+
+                .img{
+                    filter: invert(100%);
+                }
+
+                .texto{
+                    text-align: right;
+                }
+
+               article {  
+                  list-style: none;
+                  width: 30%;
+                  display: inline-block;
+                }
+
+                .simposio{
+                    margin-left: 90px;
+                }
+
+.eventos-anteriores h3{
+    text-align:center;
+}
+
+                .evento{
+                    text-align:center;
+                    margin-top: 60px;
+                }
+
+                footer {
+                    font-family: "Open Sans", sans-serif;
+                    text-align: center;
+                    background: #000f08;
+                    color: white;
+                    padding: 20px
+                    }
+                    i {
+                    font-size: 30px
+                    }
+           
+                    #simposio{
+                    padding: auto;
+                        text-align: justify;
+                    }
+                    .titulo{
+                        text-align:justify;
+                        margin-top: 60px; 
+                    }
+                    .imge{
+                        width: 800px;
+                    }
+
+                   #todo{
+                       
+                       margin-left: 350px;
+                       width: 700px;
+                       height: 2000px;
+                       text-align: justify;
+                       margin-bottom: 0px;
+                   }
+
+                   #pie{
+                       margin-top: 0px;
+                       padding: 0px;
+                       width: 0px;
+
+                   }
